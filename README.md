@@ -1,5 +1,3 @@
-# Data-warehouse
-
 <h1>DATA WAREHOUSE</h1>
 <p>Breve explicação do que foi criado no código:</p>
 <ul>
