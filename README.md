@@ -16,8 +16,8 @@ Esses dados são usados para criar um DataFrame chamado df_vendas.</li>
 </ul>
 <h2>Resultados:</h2>
 <ul>
-  <li>O DataFrame df_warehouse é impresso na saída padrão, exibindo o conteúdo do "data warehouse" criado a partir da mesclagem dos dados de vendas e produtos.</li>
-  <li>Os dados são organizados de forma tabular, onde cada linha representa uma venda realizada. As informações incluem a data da venda, o ID do produto vendido, a quantidade vendida, o valor unitário, o valor total da venda, o nome do produto e a categoria do produto.</li>
+  <li>O DataFrame df_warehouse foi impresso na saída padrão, exibindo o conteúdo do "data warehouse" criado a partir da mesclagem dos dados de vendas e produtos.</li>
+  <li>Os dados foram organizados de forma tabular, onde cada linha representa uma venda realizada. As informações incluem a data da venda, o ID do produto vendido, a quantidade vendida, o valor unitário, o valor total da venda, o nome do produto e a categoria do produto.</li>
   <li>É possível observar que as informações dos produtos foram mescladas com as informações das vendas com base no ID do produto. Isso cria um conjunto de dados mais completo e útil para análise posterior, como a avaliação do desempenho de vendas por categoria de produtos, tendências de vendas ao longo do tempo, entre outras análises.</li>
 </ul>
 <h3>Imagem do reusltado gerado pelo código:</h3>
