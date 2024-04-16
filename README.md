@@ -52,9 +52,9 @@ Cria uma engine de conexão com o banco de dados usando SQLAlchemy.</li>
   <li>Os resultados mostram que os dados foram criados e salvos com sucesso em arquivos CSV no diretório 'data_lake', e cada arquivo contém um DataFrame com dados aleatórios gerados para as colunas especificadas. Isso confirma que o processo de criação do "data lake" e salvamento dos dados em arquivos CSV foi bem-sucedido.</li>
 </ul>
 <h3>Imagem dos Resultados obtidos:</h3>
-<a href="https://github.com/HillaryFerreira/Data-warehouse-Lake/assets/129438048/67391e92-9b4f-40b2-8aa5-1dd5cb7106b2">Resultado- imagem</a>
-<a href="https://github.com/HillaryFerreira/Data-warehouse-Lake/assets/129438048/e36fb175-a59c-4343-865e-ce614960bd40">Resultado- imagem</a>
-<a href="https://github.com/HillaryFerreira/Data-warehouse-Lake/assets/129438048/945b2a74-dfd2-459c-88ca-d1ff33cb8029">Resultado- imagem</a>
+<a href="https://github.com/HillaryFerreira/Data-warehouse-Lake/assets/129438048/67391e92-9b4f-40b2-8aa5-1dd5cb7106b2">Resultado- imagem</a><br>
+<a href="https://github.com/HillaryFerreira/Data-warehouse-Lake/assets/129438048/e36fb175-a59c-4343-865e-ce614960bd40">Resultado- imagem</a><br>
+<a href="https://github.com/HillaryFerreira/Data-warehouse-Lake/assets/129438048/945b2a74-dfd2-459c-88ca-d1ff33cb8029">Resultado- imagem</a><br>
 <a href="https://github.com/HillaryFerreira/Data-warehouse-Lake/assets/129438048/92d3940c-cedf-4433-8cfa-05e151fcad1a">Resultado- imagem</a>
 
 
