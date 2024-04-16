@@ -14,3 +14,7 @@ Esses dados são usados para criar um DataFrame chamado df_vendas.</li>
   <li>Os dados do arquivo CSV 'data_warehouse.csv' são lidos de volta para o DataFrame df_warehouse.</li>
   <li>O conteúdo do DataFrame df_warehouse é impresso na saída padrão, exibindo assim os dados finais armazenados no "data warehouse".</li>
 </ul>
+
+<h3>Imagem do reusltado gerado pelo código:</h3>
+<a href="https://github.com/HillaryFerreira/Data-warehouse-Lake/assets/129438048/836ea5ca-2d20-4ce4-bc6b-321c129d58db">Resultado do código</a>
+
