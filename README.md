@@ -21,5 +21,5 @@ Esses dados são usados para criar um DataFrame chamado df_vendas.</li>
   <li>É possível observar que as informações dos produtos foram mescladas com as informações das vendas com base no ID do produto. Isso cria um conjunto de dados mais completo e útil para análise posterior, como a avaliação do desempenho de vendas por categoria de produtos, tendências de vendas ao longo do tempo, entre outras análises.</li>
 </ul>
 <h3>Imagem do reusltado gerado pelo código:</h3>
-<a href="https://github.com/HillaryFerreira/Data-warehouse-Lake/assets/129438048/836ea5ca-2d20-4ce4-bc6b-321c129d58db">Resultado do código</a>
+<a href="https://github.com/HillaryFerreira/Data-warehouse-Lake/assets/129438048/836ea5ca-2d20-4ce4-bc6b-321c129d58db">Resultado do código-Imagem</a>
 
