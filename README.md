@@ -20,8 +20,6 @@ Esses dados são usados para criar um DataFrame chamado df_vendas.</li>
   <li>Os dados foram organizados de forma tabular, onde cada linha representa uma venda realizada. As informações incluem a data da venda, o ID do produto vendido, a quantidade vendida, o valor unitário, o valor total da venda, o nome do produto e a categoria do produto.</li>
   <li>É possível observar que as informações dos produtos foram mescladas com as informações das vendas com base no ID do produto. Isso cria um conjunto de dados mais completo e útil para análise posterior, como a avaliação do desempenho de vendas por categoria de produtos, tendências de vendas ao longo do tempo, entre outras análises.</li>
 </ul>
-<h3>Imagem do reusltado gerado pelo código:</h3>
-<a href="https://github.com/HillaryFerreira/Data-warehouse-Lake/assets/129438048/836ea5ca-2d20-4ce4-bc6b-321c129d58db">Resultado do código-Imagem</a>
 
 <h1>Data-Lake</h1>
 <p>Explicação do que foi criado no código:</p>
@@ -51,11 +49,6 @@ Cria uma engine de conexão com o banco de dados usando SQLAlchemy.</li>
   <li>Os valores das colunas coluna1 e coluna2 são números aleatórios, enquanto os valores da coluna3 são aleatoriamente escolhidos entre 'A', 'B' e 'C'.</li>
   <li>Os resultados mostram que os dados foram criados e salvos com sucesso em arquivos CSV no diretório 'data_lake', e cada arquivo contém um DataFrame com dados aleatórios gerados para as colunas especificadas. Isso confirma que o processo de criação do "data lake" e salvamento dos dados em arquivos CSV foi bem-sucedido.</li>
 </ul>
-<h3>Imagem dos Resultados obtidos:</h3>
-<a href="https://github.com/HillaryFerreira/Data-warehouse-Lake/assets/129438048/67391e92-9b4f-40b2-8aa5-1dd5cb7106b2">Resultado- imagem</a><br>
-<a href="https://github.com/HillaryFerreira/Data-warehouse-Lake/assets/129438048/e36fb175-a59c-4343-865e-ce614960bd40">Resultado- imagem</a><br>
-<a href="https://github.com/HillaryFerreira/Data-warehouse-Lake/assets/129438048/945b2a74-dfd2-459c-88ca-d1ff33cb8029">Resultado- imagem</a><br>
-<a href="https://github.com/HillaryFerreira/Data-warehouse-Lake/assets/129438048/92d3940c-cedf-4433-8cfa-05e151fcad1a">Resultado- imagem</a>
 
 
 
